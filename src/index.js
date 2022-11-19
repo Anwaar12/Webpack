@@ -47,9 +47,3 @@ addliststodom()
 const divx=document.createElement('div')
 divx.innerHTML=`<button>Clear all Completed</button>`
 ul.appendChild(divx)
-//  function component() {
-//    const element = document.createElement('div');
-//    return element;
-//  }
-
-//  document.body.appendChild(component());
